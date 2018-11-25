@@ -13,4 +13,4 @@ When you play the game, you are going to be fighting many type of villains with 
 So, it’s very important they check that Spiderman moves are working properly and efficiently.  
 The last thing they seriously need to check is Spiderman gadgets. 
 Spiderman gadgets need to be checked because you use them to help you in the middle of the fight and solving puzzles.
-If that didn’t work Spiderman wouldn’t be able to fight the way he should and be able to finish a fight really quickly.  
+If that didn’t work Spiderman wouldn’t be able to fight the way he should and be able to finish a fight really quickly. 
